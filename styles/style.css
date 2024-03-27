@@ -2,12 +2,20 @@
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	color: #0ed0d6;
 	background-color: #3a3a3a;
+	width: 1000px;
+	padding: 10px;
+	margin: 0px auto;
+}
 
+p {
+	width: auto;
+	margin: 0px;
 }
 
 h1,
 h2 {
 	font-weight: bold;
+	width: 950px;
 }
 
 .return {
@@ -18,4 +26,19 @@ div {
 	border-style: solid;
 	border-width: 0.25em;
 	border-color: #694ee0;
+	margin: auto;
+}
+
+li {
+	width: 900px;
+	padding: 5px;
+}
+
+ul,
+ol {
+	padding: 0px;
+}
+
+img {
+	width: auto;
 }
